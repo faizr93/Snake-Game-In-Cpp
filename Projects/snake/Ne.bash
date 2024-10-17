@@ -1,1 +1,0 @@
-git remote add origin https://github.com/faizr93/Snake-Game-In-Cpp
