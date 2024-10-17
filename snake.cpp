@@ -19,7 +19,7 @@ char direction = 'd';
 char grid[GRID_SIZE][GRID_SIZE];
 
 // Function declarations
-void initializeGrid();
+void initializeGrid(); //, WILL THIS APPEAR THERE
 void printGrid();
 void spawnEgg();
 void handleMovement();
